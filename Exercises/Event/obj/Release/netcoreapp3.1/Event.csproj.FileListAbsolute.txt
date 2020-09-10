@@ -1,0 +1,13 @@
+C:\Users\WindowsPC\source\repos\Exercises\Event\bin\Release\netcoreapp3.1\Event.exe
+C:\Users\WindowsPC\source\repos\Exercises\Event\bin\Release\netcoreapp3.1\Event.deps.json
+C:\Users\WindowsPC\source\repos\Exercises\Event\bin\Release\netcoreapp3.1\Event.runtimeconfig.json
+C:\Users\WindowsPC\source\repos\Exercises\Event\bin\Release\netcoreapp3.1\Event.runtimeconfig.dev.json
+C:\Users\WindowsPC\source\repos\Exercises\Event\bin\Release\netcoreapp3.1\Event.dll
+C:\Users\WindowsPC\source\repos\Exercises\Event\bin\Release\netcoreapp3.1\Event.pdb
+C:\Users\WindowsPC\source\repos\Exercises\Event\obj\Release\netcoreapp3.1\Event.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\Exercises\Event\obj\Release\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+C:\Users\WindowsPC\source\repos\Exercises\Event\obj\Release\netcoreapp3.1\Event.AssemblyInfo.cs
+C:\Users\WindowsPC\source\repos\Exercises\Event\obj\Release\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\Exercises\Event\obj\Release\netcoreapp3.1\Event.dll
+C:\Users\WindowsPC\source\repos\Exercises\Event\obj\Release\netcoreapp3.1\Event.pdb
+C:\Users\WindowsPC\source\repos\Exercises\Event\obj\Release\netcoreapp3.1\Event.genruntimeconfig.cache

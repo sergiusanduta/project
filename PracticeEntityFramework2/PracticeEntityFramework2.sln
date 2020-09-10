@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeEntityFramework2", "PracticeEntityFramework2\PracticeEntityFramework2.csproj", "{7CDCFCD4-727D-49CC-8571-6E6FE33A9F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercisses", "Exercisses\Exercisses.csproj", "{EE35175A-BD21-44CE-91C4-274043117777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CDCFCD4-727D-49CC-8571-6E6FE33A9F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDCFCD4-727D-49CC-8571-6E6FE33A9F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDCFCD4-727D-49CC-8571-6E6FE33A9F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDCFCD4-727D-49CC-8571-6E6FE33A9F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE35175A-BD21-44CE-91C4-274043117777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE35175A-BD21-44CE-91C4-274043117777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE35175A-BD21-44CE-91C4-274043117777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE35175A-BD21-44CE-91C4-274043117777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7959055B-2258-45F9-A02F-7F30473B535C}
+	EndGlobalSection
+EndGlobal

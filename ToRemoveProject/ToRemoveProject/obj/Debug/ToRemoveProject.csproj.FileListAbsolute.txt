@@ -1,0 +1,15 @@
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\bin\Debug\ToRemoveProject.exe.config
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\bin\Debug\ToRemoveProject.exe
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\bin\Debug\ToRemoveProject.pdb
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\ToRemoveProject.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\MainWindow.g.cs
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\App.g.cs
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\ToRemoveProject_MarkupCompile.cache
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\ToRemoveProject_MarkupCompile.lref
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\MainWindow.baml
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\ToRemoveProject.g.resources
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\ToRemoveProject.Properties.Resources.resources
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\ToRemoveProject.csproj.GenerateResource.cache
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\ToRemoveProject.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\ToRemoveProject.exe
+C:\Users\WindowsPC\source\repos\ToRemoveProject\ToRemoveProject\obj\Debug\ToRemoveProject.pdb

@@ -1,0 +1,54 @@
+﻿@model AskQuestionModel
+@{
+    ViewData["Title"] = "Ask a question";
+}
+
+
+@section HeaderStyles {
+    <style>
+        .ask-page {
+            
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin-top: 25px;
+            
+        }
+        .ask-form {
+            padding: 20px 15px;
+            background-color: rgb(240, 240, 240);
+            border-radius: 10px;
+            border-color: #ccc;
+            border-width: 1px;
+            border-style: solid;
+            box-shadow: 2px 2px 2px #888888;
+            min-width: 500px;
+            display:flex;
+            flex-direction: column;
+        }
+        .ask-form input, .ask-form textarea {
+            border-radius: 3px;
+            border: 1px solid #ccc;
+            width: 100%;
+        }
+        .line {
+            border-top: 1px solid #ccc;
+            background-color: white;
+            margin: 20px 0px;
+        }
+        
+    </style>
+}
+
+<div class="ask-page">
+    <h3>ASK A QUESTION</h3>
+    <form class="ask-form" asp-controller="Home" asp-action="Ask">
+        <label>Title</label>
+        <input type="text" asp-for="Title"/>
+        <label>Content</label>
+        <textarea asp-for="Content"></textarea>
+        <div class="line"></div>
+        <button class="primary-button" type="submit">Submit Your Question</button>
+    </form>
+</div>

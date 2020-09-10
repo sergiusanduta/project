@@ -1,0 +1,7 @@
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\Exercisses\bin\Debug\Exercisses.exe.config
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\Exercisses\bin\Debug\Exercisses.exe
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\Exercisses\bin\Debug\Exercisses.pdb
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\Exercisses\obj\Debug\Exercisses.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\Exercisses\obj\Debug\Exercisses.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\Exercisses\obj\Debug\Exercisses.exe
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\Exercisses\obj\Debug\Exercisses.pdb

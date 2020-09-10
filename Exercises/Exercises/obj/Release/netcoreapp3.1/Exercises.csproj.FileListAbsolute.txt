@@ -1,0 +1,13 @@
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\bin\Release\netcoreapp3.1\Exercises.exe
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\bin\Release\netcoreapp3.1\Exercises.deps.json
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\bin\Release\netcoreapp3.1\Exercises.runtimeconfig.json
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\bin\Release\netcoreapp3.1\Exercises.runtimeconfig.dev.json
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\bin\Release\netcoreapp3.1\Exercises.dll
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\bin\Release\netcoreapp3.1\Exercises.pdb
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\obj\Release\netcoreapp3.1\Exercises.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\obj\Release\netcoreapp3.1\Exercises.AssemblyInfoInputs.cache
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\obj\Release\netcoreapp3.1\Exercises.AssemblyInfo.cs
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\obj\Release\netcoreapp3.1\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\obj\Release\netcoreapp3.1\Exercises.dll
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\obj\Release\netcoreapp3.1\Exercises.pdb
+C:\Users\WindowsPC\source\repos\Exercises\Exercises\obj\Release\netcoreapp3.1\Exercises.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\WindowsPC\source\repos\test\FS\bin\Debug\FS.exe.config
+C:\Users\WindowsPC\source\repos\test\FS\bin\Debug\FS.exe
+C:\Users\WindowsPC\source\repos\test\FS\bin\Debug\FS.pdb
+C:\Users\WindowsPC\source\repos\test\FS\obj\Debug\FS.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\test\FS\obj\Debug\FS.Form1.resources
+C:\Users\WindowsPC\source\repos\test\FS\obj\Debug\FS.Properties.Resources.resources
+C:\Users\WindowsPC\source\repos\test\FS\obj\Debug\FS.csproj.GenerateResource.cache
+C:\Users\WindowsPC\source\repos\test\FS\obj\Debug\FS.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\test\FS\obj\Debug\FS.exe
+C:\Users\WindowsPC\source\repos\test\FS\obj\Debug\FS.pdb

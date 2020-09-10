@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <style>
+        body {
+            margin: 0;
+            background-color: #F7F8FA;
+        }
+
+        .navigation {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 20px;
+            background-color: #fff;
+            border-bottom: 1px solid #E3E2E2;
+            box-shadow: 0 3px 7px 0 rgba(110, 112, 114, 0.21)
+        }
+
+        .nav-item {
+            color: #000;
+        }
+
+            .nav-item:hover {
+                color: #000;
+                text-decoration: none;
+            }
+
+        .search {
+            box-sizing: border-box;
+            font-family: 'Segoe UI', 'Helvetica Neue',sans-serif;
+            font-size: 16px;
+            padding: 8px 10px;
+            border: 1px solid #E3E2E2;
+            border-radius: 3px;
+            color: #5C5A5A;
+            background-color: white;
+            width: 200px;
+            height: 30px;
+        }
+
+        .btn-signin {
+            font-family: 'Segoe UI','Helvetica Neue',sans-serif;
+            font-size: 16px;
+            padding: 5px 10px;
+            background-color: transparent;
+            color: #5C5A5A;
+            webkit-text-decoration: none;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .primary-button {
+            background-color: #824c67;
+            border-color: #824c67;
+            border-style: solid;
+            border-radius: 5px;
+            font-size: 16px;
+            padding: 5px 10px;
+            color: white;
+            cursor: pointer;
+        }
+
+            .primary-button:hover {
+                text-decoration: none;
+                background-color: #681C41;
+                color: #fff;
+            }
+
+
+        .header {
+            padding: 20px 0px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    
+        
+    </style>
+
+    @RenderSection("HeaderStyles", required: false)
+    @RenderSection("BodyStyles",required:false)
+</head>
+<body>
+    <div class="navigation">
+        <div>
+            <a class="nav-item" asp-controller="Home" asp-action="Index">
+                <b>Q & A</b>
+            </a>
+        </div>
+
+        <input type="text" class="search" placeholder="Search" />
+        <a class="btn-signin nav-item" asp-controller="Account" asp-action="SignOut"><i class="fas fa-sign-out-alt"></i> Sign Out</a>
+    </div>
+
+    <br />
+    <br />
+    <div class="container">
+        <main class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+

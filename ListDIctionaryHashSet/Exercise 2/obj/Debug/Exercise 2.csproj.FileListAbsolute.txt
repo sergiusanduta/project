@@ -1,0 +1,7 @@
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\Exercise 2\bin\Debug\Exercise 2.exe.config
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\Exercise 2\bin\Debug\Exercise 2.exe
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\Exercise 2\bin\Debug\Exercise 2.pdb
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\Exercise 2\obj\Debug\Exercise 2.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\Exercise 2\obj\Debug\Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\Exercise 2\obj\Debug\Exercise 2.exe
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\Exercise 2\obj\Debug\Exercise 2.pdb

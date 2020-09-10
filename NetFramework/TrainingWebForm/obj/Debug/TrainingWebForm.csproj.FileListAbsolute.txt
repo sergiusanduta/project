@@ -1,0 +1,10 @@
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\bin\Debug\TrainingWebForm.exe.config
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\bin\Debug\TrainingWebForm.exe
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\bin\Debug\TrainingWebForm.pdb
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\obj\Debug\TrainingWebForm.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\obj\Debug\TrainingWebForm.Form1.resources
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\obj\Debug\TrainingWebForm.Properties.Resources.resources
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\obj\Debug\TrainingWebForm.csproj.GenerateResource.cache
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\obj\Debug\TrainingWebForm.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\obj\Debug\TrainingWebForm.exe
+C:\Users\WindowsPC\source\repos\NetFramework\TrainingWebForm\obj\Debug\TrainingWebForm.pdb

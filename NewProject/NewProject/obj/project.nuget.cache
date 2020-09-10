@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOYCUfeCjfcQIitVOIXMlAT1RZuwNgwpM3jpPfJMp7E7fzHUhM3ZDdg8UyFj8YIJRre9eUZOUgoVssSjcKTRww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WindowsPC\\source\\repos\\NewProject\\NewProject\\GetMax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WindowsPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\bin\Debug\PracticeEntittyFramework3.exe.config
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\bin\Debug\PracticeEntittyFramework3.exe
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\bin\Debug\PracticeEntittyFramework3.pdb
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\bin\Debug\EntityFramework.dll
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\bin\Debug\EntityFramework.xml
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\obj\Debug\PracticeEntittyFramework3.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\obj\Debug\PracticeEntittyFramework3.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\obj\Debug\PracticeEntittyFramework3.csproj.CopyComplete
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\obj\Debug\PracticeEntittyFramework3.exe
+C:\Users\WindowsPC\source\repos\PracticeEntittyFramework3\PracticeEntittyFramework3\obj\Debug\PracticeEntittyFramework3.pdb

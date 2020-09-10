@@ -1,0 +1,7 @@
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\ListDIctionaryHashSet\bin\Debug\ListDIctionaryHashSet.exe.config
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\ListDIctionaryHashSet\bin\Debug\ListDIctionaryHashSet.exe
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\ListDIctionaryHashSet\bin\Debug\ListDIctionaryHashSet.pdb
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\ListDIctionaryHashSet\obj\Debug\ListDIctionaryHashSet.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\ListDIctionaryHashSet\obj\Debug\ListDIctionaryHashSet.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\ListDIctionaryHashSet\obj\Debug\ListDIctionaryHashSet.exe
+C:\Users\WindowsPC\source\repos\ListDIctionaryHashSet\ListDIctionaryHashSet\obj\Debug\ListDIctionaryHashSet.pdb

@@ -1,0 +1,14 @@
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\bin\Debug\CodeFirstMovie.exe.config
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\bin\Debug\CodeFirstMovie.exe
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\bin\Debug\CodeFirstMovie.pdb
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\bin\Debug\EntityFramework.dll
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\bin\Debug\EntityFramework.xml
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\obj\Debug\CodeFirstMovie.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\obj\Debug\CodeFirstMovie.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\obj\Debug\CodeFirstMovie.csproj.CopyComplete
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\obj\Debug\CodeFirstMovie.exe
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\obj\Debug\CodeFirstMovie.pdb
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\obj\Debug\CodeFirstMovie.Migrations.InitialMigration.resources
+C:\Users\WindowsPC\source\repos\CodeFirstMovie\CodeFirstMovie\obj\Debug\CodeFirstMovie.csproj.GenerateResource.cache

@@ -1,0 +1,13 @@
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\bin\Debug\netcoreapp3.1\ArrayCopy.exe
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\bin\Debug\netcoreapp3.1\ArrayCopy.deps.json
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\bin\Debug\netcoreapp3.1\ArrayCopy.runtimeconfig.json
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\bin\Debug\netcoreapp3.1\ArrayCopy.runtimeconfig.dev.json
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\bin\Debug\netcoreapp3.1\ArrayCopy.dll
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\bin\Debug\netcoreapp3.1\ArrayCopy.pdb
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\obj\Debug\netcoreapp3.1\ArrayCopy.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\obj\Debug\netcoreapp3.1\ArrayCopy.AssemblyInfoInputs.cache
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\obj\Debug\netcoreapp3.1\ArrayCopy.AssemblyInfo.cs
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\obj\Debug\netcoreapp3.1\ArrayCopy.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\obj\Debug\netcoreapp3.1\ArrayCopy.dll
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\obj\Debug\netcoreapp3.1\ArrayCopy.pdb
+C:\Users\WindowsPC\source\repos\NewProject\ArrayCopy\obj\Debug\netcoreapp3.1\ArrayCopy.genruntimeconfig.cache

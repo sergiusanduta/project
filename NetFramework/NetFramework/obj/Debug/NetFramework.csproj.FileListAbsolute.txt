@@ -1,0 +1,7 @@
+C:\Users\WindowsPC\source\repos\NetFramework\NetFramework\bin\Debug\NetFramework.exe.config
+C:\Users\WindowsPC\source\repos\NetFramework\NetFramework\bin\Debug\NetFramework.exe
+C:\Users\WindowsPC\source\repos\NetFramework\NetFramework\bin\Debug\NetFramework.pdb
+C:\Users\WindowsPC\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.exe
+C:\Users\WindowsPC\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.pdb

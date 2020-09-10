@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1BTQTVXnv+8A/p9RU37AaixEGo+qz65Gs9eHiuEHsl2mi2YSy4mIMjs2bZEGCgjm+slNxllnLMbsxj9hM6BlWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WindowsPC\\source\\repos\\Ch02FutureValue\\FutureValue\\FutureValue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WindowsPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

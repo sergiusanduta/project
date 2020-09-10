@@ -1,0 +1,15 @@
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\bin\Debug\PracticeEntityFramework2.exe.config
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\bin\Debug\PracticeEntityFramework2.exe
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\bin\Debug\PracticeEntityFramework2.pdb
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\bin\Debug\EntityFramework.dll
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\bin\Debug\EntityFramework.xml
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\obj\Debug\PracticeEntityFramework2.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\obj\Debug\PracticeEntityFramework2.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\obj\Debug\PracticeEntityFramework2.csproj.CopyComplete
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\obj\Debug\PracticeEntityFramework2.exe
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\obj\Debug\PracticeEntityFramework2.pdb
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\obj\Debug\PracticeEntityFramework2.Migrations.FirstDatabase.resources
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\obj\Debug\PracticeEntityFramework2.csproj.GenerateResource.cache
+C:\Users\WindowsPC\source\repos\PracticeEntityFramework2\PracticeEntityFramework2\obj\Debug\PracticeEntityFramework2.Migrations.AddCustomersAddress.resources

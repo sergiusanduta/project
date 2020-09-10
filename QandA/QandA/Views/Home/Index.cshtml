@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+@section BodyStyles {
+<style>
+    .questioninfo {
+        background-color: #FFFFFF;
+        margin-left:92px;
+    }
+    h5 {
+        margin-left: 92px;
+    }
+    .line {
+        border-top: 3px solid #ffC87C;
+        margin: 0px;
+        
+    }
+    h6 {
+        color: #0000FF;
+        margin-left: 15px;
+    }
+    p {
+        margin-left: 15px;
+    }
+    div {
+        margin-left: 15px;
+    }
+   
+</style>
+    }
+
+
+
+    <div class="header">
+        <h5>UNANSWERED QUESTIONS</h5>
+        <a asp-controller="Home" asp-action="Ask" class="primary-button">Ask a question</a>
+    </div>
+
+
+
+    <div class="questioninfo">
+       
+        <div class="line"></div>
+        <h6>Title</h6>
+        <p>Question</p>
+        <div><i>Asked by admin on 7/10/2020 2:58:20PM<time datetime="7-10-2020 2:58:20PM"></time></i></div>
+
+    </div>
+
+

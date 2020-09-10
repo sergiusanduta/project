@@ -1,0 +1,13 @@
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.exe
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.deps.json
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.json
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.dev.json
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.genruntimeconfig.cache
+C:\Users\WindowsPC\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csprojAssemblyReference.cache

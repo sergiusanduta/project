@@ -1,0 +1,12 @@
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\bin\Debug\EFDatabaseFirst.exe.config
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\bin\Debug\EFDatabaseFirst.exe
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\bin\Debug\EFDatabaseFirst.pdb
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\obj\Debug\EFDatabaseFirst.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\obj\Debug\EFDatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\obj\Debug\EFDatabaseFirst.exe
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\obj\Debug\EFDatabaseFirst.pdb
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WindowsPC\source\repos\Linq\EFDatabaseFirst\obj\Debug\EFDatabaseFirst.csproj.CopyComplete

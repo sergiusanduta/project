@@ -1,0 +1,12 @@
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\DataBaseFirstDemo.exe.config
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\DataBaseFirstDemo.exe
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\DataBaseFirstDemo.pdb
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\obj\Debug\DataBaseFirstDemo.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\obj\Debug\DataBaseFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\obj\Debug\DataBaseFirstDemo.csproj.CopyComplete
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\obj\Debug\DataBaseFirstDemo.exe
+C:\Users\WindowsPC\source\repos\DataBaseFirstDemo\DataBaseFirstDemo\obj\Debug\DataBaseFirstDemo.pdb

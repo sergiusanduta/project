@@ -1,0 +1,13 @@
+C:\Users\WindowsPC\source\repos\test\NewClass\bin\Release\netcoreapp3.1\NewClass.exe
+C:\Users\WindowsPC\source\repos\test\NewClass\bin\Release\netcoreapp3.1\NewClass.deps.json
+C:\Users\WindowsPC\source\repos\test\NewClass\bin\Release\netcoreapp3.1\NewClass.runtimeconfig.json
+C:\Users\WindowsPC\source\repos\test\NewClass\bin\Release\netcoreapp3.1\NewClass.runtimeconfig.dev.json
+C:\Users\WindowsPC\source\repos\test\NewClass\bin\Release\netcoreapp3.1\NewClass.dll
+C:\Users\WindowsPC\source\repos\test\NewClass\bin\Release\netcoreapp3.1\NewClass.pdb
+C:\Users\WindowsPC\source\repos\test\NewClass\obj\Release\netcoreapp3.1\NewClass.csprojAssemblyReference.cache
+C:\Users\WindowsPC\source\repos\test\NewClass\obj\Release\netcoreapp3.1\NewClass.csproj.CoreCompileInputs.cache
+C:\Users\WindowsPC\source\repos\test\NewClass\obj\Release\netcoreapp3.1\NewClass.AssemblyInfoInputs.cache
+C:\Users\WindowsPC\source\repos\test\NewClass\obj\Release\netcoreapp3.1\NewClass.AssemblyInfo.cs
+C:\Users\WindowsPC\source\repos\test\NewClass\obj\Release\netcoreapp3.1\NewClass.dll
+C:\Users\WindowsPC\source\repos\test\NewClass\obj\Release\netcoreapp3.1\NewClass.pdb
+C:\Users\WindowsPC\source\repos\test\NewClass\obj\Release\netcoreapp3.1\NewClass.genruntimeconfig.cache
